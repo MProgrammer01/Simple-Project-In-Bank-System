@@ -1,0 +1,8 @@
+﻿  Project Bank System User.cpp
+D:\learn_c++\learn_c++\Project Bank System\Project Bank System User\Project Bank System User\Project Bank System User.cpp(72,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\learn_c++\learn_c++\Project Bank System\Project Bank System User\Project Bank System User\Project Bank System User.cpp(1003,1): warning C4715: 'UpdateUserByUsername': not all control paths return a value
+D:\learn_c++\learn_c++\Project Bank System\Project Bank System User\Project Bank System User\Project Bank System User.cpp(963,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+D:\learn_c++\learn_c++\Project Bank System\Project Bank System User\Project Bank System User\Project Bank System User.cpp(923,1): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+D:\learn_c++\learn_c++\Project Bank System\Project Bank System User\Project Bank System User\Project Bank System User.cpp(881,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+D:\learn_c++\learn_c++\Project Bank System\Project Bank System User\Project Bank System User\Project Bank System User.cpp(1030,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  Project Bank System User.vcxproj -> D:\learn_c++\learn_c++\Project Bank System\Project Bank System User\x64\Debug\Project Bank System User.exe
